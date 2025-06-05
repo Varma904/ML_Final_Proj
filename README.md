@@ -1,7 +1,4 @@
-📘 README.md
-markdown
-Copy
-Edit
+
 # 🚦 DCRNN for Traffic Prediction with Integrated Traffic Analysis
 
 This project extends the original [DCRNN_PyTorch](https://github.com/chnsh/DCRNN_PyTorch) repository by integrating **traffic data analysis** alongside training and evaluation. While the original repo focused only on model implementation, traffic data analysis was located in a separate repository. We combined both to create a complete, end-to-end pipeline for forecasting traffic speed using DCRNN.
