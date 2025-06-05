@@ -37,7 +37,8 @@ To resolve this:
 
 Here’s an example of validation loss output after 10 epochs:
 
-Val Loss: 2.398 ± 0.215
+Val Train: 2.398 ± 0.215
+Val Loss: 3.323 ± 0.142
 
 yaml
 Copy
